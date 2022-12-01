@@ -1,3 +1,4 @@
-StudentID:
-Fullname(in English):
-AKA : 
+StudentID: 00177
+Fullname(in English): Amonpan Chomklin
+AKA : -
+Class Detail: String Method
