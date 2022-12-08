@@ -1,4 +1,5 @@
-StudentID: 00177
-Fullname(in English): Amonpan Chomklin
-AKA : -
-Class Detail: String Method
+Date :  08-Dec-2022
+StudentID:  00177
+Fullname(in English):  Amonpan Chomklin
+AKA :-
+ClassDetail:  User-Defined Method with String
