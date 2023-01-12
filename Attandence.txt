@@ -1,5 +1,5 @@
-Date :  22-Dec-2022
+Date :  12-Jan-2023
 StudentID:  00177
 Fullname(in English):  Amonpan Chomklin
 AKA :-
-ClassDetail:  Class and Object
+ClassDetail:  GUI
