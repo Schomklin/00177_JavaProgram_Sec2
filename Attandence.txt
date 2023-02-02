@@ -1,5 +1,5 @@
-Date :  19-Jan-2023
+Date :  02-Feb-2023
 StudentID:  00177
 Fullname(in English):  Amonpan Chomklin
 AKA :-
-ClassDetail:  Encapsulation
+ClassDetail:  Composition, Inheritance, and Polymorphism
